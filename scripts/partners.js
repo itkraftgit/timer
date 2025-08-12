@@ -1,14 +1,15 @@
 export const partners = [
 
     { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
+    { src: "./public/partners/logo-creasoup.svg", name: "Creasoup" },
     { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
+    { src: "./public/partners/logo-creasoup.svg", name: "Creasoup" },
     { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
+    { src: "./public/partners/logo-creasoup.svg", name: "Creasoup" },
     { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
+    { src: "./public/partners/logo-creasoup.svg", name: "Creasoup" },
     { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
-    { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
-    { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
-    { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
-    { src: "./public/partners/logo-mobiliz-tr.svg", name: "Mobiliz" },
+    { src: "./public/partners/logo-creasoup.svg", name: "Creasoup" },
 
 /*
     { src: "./public/partners/ambitioned.png", name: "Ambitioned" },
